@@ -1,0 +1,106 @@
+FULL WORKS PAGE CSS
+
+head  {
+  background-color: #797596
+}
+
+body {
+  background-color: #FFF7EB;
+  margin: 0 auto !important;
+}
+
+div.topline  {
+  text-align: center;
+	text-shadow: 0px 4px 4px #00000040;
+  font-family: "Inter-Regular", Helvetica;
+	background-color: #7A6563;
+	padding: 30PX;
+}
+
+p.ashmooredesigns {
+  font-size: 40px;
+	color: #fff7eb;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #280004;
+  font-family: "Inter-Regular", Helvetica;
+}
+
+.topnav a {
+  float: left;
+  color: #fff7eb;
+  text-align: center;
+  padding: 14px 25px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #fff7eb;
+  color: #0f110c;
+}
+
+.topnav-right {
+  float: right;
+}
+
+div.examplecs1 {
+  margin-top: 10px;
+  margin-right: 350px;
+  margin-bottom: 10px;
+  margin-left: 350px;
+  border: 2px solid #0f110c;
+  border-radius: 10px;
+  width: 500px;
+  padding: 5px;
+}
+
+div.examplecs1:hover {
+  border: 2px solid #777;
+}
+
+div.examplecs1 img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+div.desc1 {
+  padding: 15px;
+  font-family: Arial;
+}
+
+div.examplecs2 {
+  margin-top: 10px;
+  margin-right: 350px;
+  margin-bottom: 10px;
+  margin-left: 350px;
+  border: 2px solid #0f110c;
+  border-radius: 10px;
+  width: 500px;
+  padding: 5px;
+}
+
+div.examplecs2:hover {
+  border: 1px solid #777;
+}
+
+div.examplecs2 img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+div.desc2 {
+  padding: 15px;
+  text-align: center;
+  font-family: Arial;
+}
+
+div.footer  {
+  margin: 20px;
+  text-align: center;
+  font-family: Georgia;
+}
