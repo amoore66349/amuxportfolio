@@ -55,6 +55,7 @@ div.examplecs1 {
   border-radius: 10px;
   width: 500px;
   padding: 5px;
+  text-align: center;
 }
 
 div.examplecs1:hover {
