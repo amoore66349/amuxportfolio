@@ -5,7 +5,7 @@ head {
 }
 
 body   {
-  background-color: #FFF7EB;
+  background-color: #FAF9F6;
   margin: 0 auto !important;
 }
 
@@ -38,7 +38,7 @@ p.ashmooredesigns {
 }
 
 .topnav a:hover {
-  background-color: #fff7eb;
+  background-color: #FAF9F6;
   color: #0f110c;
 }
 
@@ -54,6 +54,12 @@ h1, h2   {
 
 h3   {
   text-align: center;
+  font-size: 30px;
+}
+
+div.contactcontent {
+  margin-left: 50px;
+  font-size: 22px;
 }
 
 div.footer  {
