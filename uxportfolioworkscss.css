@@ -5,7 +5,7 @@ head  {
 }
 
 body {
-  background-color: #FFF7EB;
+  background-color: #FAF9F6;
   margin: 0 auto !important;
 }
 
@@ -38,12 +38,19 @@ p.ashmooredesigns {
 }
 
 .topnav a:hover {
-  background-color: #fff7eb;
+  background-color: #FAF9F6;
   color: #0f110c;
 }
 
 .topnav-right {
   float: right;
+}
+
+div.fullworkstext {
+  text-align: center;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 40px;
+  padding-top: 30px;
 }
 
 div.examplecs1 {
@@ -59,7 +66,7 @@ div.examplecs1 {
 }
 
 div.examplecs1:hover {
-  border: 2px solid #777;
+  border: 1px solid #777;
 }
 
 div.examplecs1 img {
