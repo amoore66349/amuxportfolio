@@ -1,11 +1,11 @@
 CASE STUDY LIBRARY WEBSITE CSS
 
 head  {
-  background-color: #797596
+  background-color: #FAF9F6
 }
 
 body {
-  background-color: #FFF7EB;
+  background-color: #FAF9F6;
   margin: 0 auto !important;
 }
 
@@ -14,7 +14,7 @@ div.topline  {
   text-align: center;
 	text-shadow: 0px 4px 4px #00000040;
   font-family: "Inter-Regular", Helvetica;
-	background-color: #7A6563;
+	background-color: #FAF9F6;
 	padding: 30PX;
 }
 
@@ -25,7 +25,7 @@ p.ashmooredesigns {
 
 .topnav {
   overflow: hidden;
-  background-color: #280004;
+  background-color: #B36A5E;
   font-family: "Inter-Regular", Helvetica;
 }
 
@@ -39,7 +39,7 @@ p.ashmooredesigns {
 }
 
 .topnav a:hover {
-  background-color: #fff7eb;
+  background-color: #FAF9F6;
   color: #0f110c;
 }
 
