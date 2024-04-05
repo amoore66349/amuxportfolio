@@ -20,7 +20,7 @@ div.topline  {
 
 p.ashmooredesigns {
   font-size: 40px;
-	color: #fff7eb;
+	color: #0e1111;
 }
 
 .topnav {
@@ -62,23 +62,63 @@ p  {
   font-family: Arial;
 }
 
+p.text  {
+  font-family: Arial;
+  margin-right: 100px;
+  margin-left: 100px;
+}
+
+div.learningobj {
+  content-align: center;
+  margin-right: 100px;
+  margin-left: 100px;
+}
+
 h3   {
   text-align: center;
   font-family: Arial;
 }
+
+img.timeline {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  width: 800px;
+  height: 325px;
+}
+
 li   {
   margin-right: 10px;
   font-family: Arial;
 }
 
 img.adpic  {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   width: 800px;
   height: 600px;
 }
 
 img.cardsort1  {
-  width: 600px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 700px;
   height: 325px;
+}
+
+img.cardsort2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img.cardsort3 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 div.footer  {
