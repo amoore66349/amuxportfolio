@@ -1,6 +1,7 @@
 LEGANTO USER TESTING HTML
 
 <html>
+<link href="Leganto Testing CSS.css" type="text/css" rel="stylesheet">
   <head>
     <title> Case Study: Leganto User Testing </title>
   </head>
