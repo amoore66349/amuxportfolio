@@ -48,24 +48,75 @@ p.ashmooredesigns {
   float: right;
 }
 
-h1, h2, h3  {
+
+h1 {
   text-align: center;
   text-shadow: 0px 4px 4px #00000040;
   font-family: "Inter-Regular", Helvetica;
 }
 
-p  {
+h2 {
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
   font-family: Arial;
 }
 
-p.text  {
+h3 {
+  text-align: center;
+  font-size: 20px;
+  font-family: "Inter-Regular", Helvetica;
+}
+
+p.intro  {
   font-family: Arial;
-  margin-right: 100px;
-  margin-left: 100px;
+  text-align: left;
+  font-size: 18px;
+  margin-right: 150px;
+  margin-left: 170px;
 }
 
 ul.specs {
   font-family: Arial;
+  font-size: 18px;
+  text-align: left;
+  margin-left: 225px;
+}
+
+ul.challenge {
+  font-family: Arial;
+  font-size: 18px;
+  text-align: left;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+p.text  {
+  font-family: Arial;
+  text-align: left;
+  font-size: 18px;
+  margin-right: 150px;
+  margin-left: 120px;
+}
+
+ul.questions {
+  font-family: Arial;
+  font-size: 18px;
+  text-align: left;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+div.miroresults {
+  content-align: center;
+}
+
+ol.tasks {
+  font-family: Arial;
+  font-size: 18px;
+  text-align: left;
+  margin-left: 200px;
+  margin-right: 200px;
+  padding: 10px;
 }
 
 
