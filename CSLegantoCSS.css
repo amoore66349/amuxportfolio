@@ -119,6 +119,23 @@ ol.tasks {
   padding: 10px;
 }
 
+ol.highp {
+  font-family: Arial;
+  font-size: 18px;
+  text-align: left;
+  margin-left: 200px;
+  margin-right: 200px;
+  padding: 10px;
+}
+
+ol.lowp {
+  font-family: Arial;
+  font-size: 18px;
+  text-align: left;
+  margin-left: 200px;
+  margin-right: 200px;
+  padding: 10px;
+}
 
 div.footer  {
   text-align: center;
